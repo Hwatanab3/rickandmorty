@@ -1,6 +1,6 @@
 ![App Screenshot](./public/assets/preview.png)
 
-## ⛅ Weather APP
+## ⛅ Rick and Morty APP
 
 El proyecto es un aplicativo web que permite buscar información de los personajes de la serie Rick and Morty, consumiendo una API.
 
